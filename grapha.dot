@@ -1,0 +1,10 @@
+digraph program1  {
+ node [shape=box]  ;
+subgraph clusterHeader { style="invis" 
+ HEADER  [label=  "Family Tree of
+Sri LT. ARJUN MAHTO
+ (pbcba)",fontsize=12,levelloc=t,leveljust=centre];}
+ node [color=Blue]  ;
+13374 [label= "Sri LT. ARJUN MAHTO
+"];
+}
